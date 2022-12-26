@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13328007382",
+    "project_id": "chattiee-bd59a",
+    "storage_bucket": "chattiee-bd59a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13328007382:android:d4967e22ec51fe35f0c977",
+        "android_client_info": {
+          "package_name": "com.example.chattiee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13328007382-2rattldsvolsihelnludeckiq1is4c8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_7ipoK45eNnUsBhof-TmID6fctD70SCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13328007382-2rattldsvolsihelnludeckiq1is4c8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
